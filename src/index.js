@@ -7,7 +7,7 @@ import {
 } from "react-router-dom"
 // ReactDOM.render(<App />, document.getElementById('root'));
 ReactDOM.render(
-  <Router>
+  <Router basename={process.env.PUBLIC_URL}>
     <App />
   </Router>,
   document.getElementById('root')
