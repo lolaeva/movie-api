@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/lolaeva/movie-api/static/css/main.22a3d548.chunk.css",
+    "main.js": "/lolaeva/movie-api/static/js/main.2d23bbf5.chunk.js",
+    "main.js.map": "/lolaeva/movie-api/static/js/main.2d23bbf5.chunk.js.map",
+    "runtime-main.js": "/lolaeva/movie-api/static/js/runtime-main.d912c315.js",
+    "runtime-main.js.map": "/lolaeva/movie-api/static/js/runtime-main.d912c315.js.map",
+    "static/js/2.27e08f4b.chunk.js": "/lolaeva/movie-api/static/js/2.27e08f4b.chunk.js",
+    "static/js/2.27e08f4b.chunk.js.map": "/lolaeva/movie-api/static/js/2.27e08f4b.chunk.js.map",
+    "index.html": "/lolaeva/movie-api/index.html",
+    "static/css/main.22a3d548.chunk.css.map": "/lolaeva/movie-api/static/css/main.22a3d548.chunk.css.map",
+    "static/js/2.27e08f4b.chunk.js.LICENSE.txt": "/lolaeva/movie-api/static/js/2.27e08f4b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d912c315.js",
+    "static/js/2.27e08f4b.chunk.js",
+    "static/css/main.22a3d548.chunk.css",
+    "static/js/main.2d23bbf5.chunk.js"
+  ]
+}
